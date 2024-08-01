@@ -1,1 +1,2 @@
-＃design-pattern_ruby
+＃ design-pattern_ruby
+Rubyでデザインパターン
